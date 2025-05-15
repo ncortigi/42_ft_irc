@@ -1,9 +1,10 @@
-Ciao! 👋 Questo progetto è stato realizzato per la scuola 42 da @fracerba e @minestrinad.  
-
 # 💻 ft_irc
 
-Si tratta di una semplice implementazione di un server IRC (Internet Relay Chat) in C++.  
-💻 Il progetto permette di connettersi, chattare e gestire canali secondo le specifiche IRC.
+> **Primo progetto in c++ della Scuola 42** 
+> 👋 Realizzato da [@minestrinad](https://github.com/minestrinad), [@fracerba](https://github.com/fracerba) e [@ncortigi](https://github.com/ncortigi) 🎓  
+
+Si tratta di una semplice implementazione di un server IRC (Internet Relay Chat) in C++.
+Il progetto permette di connettersi, chattare e gestire canali secondo le specifiche IRC.
 
 ---
 
