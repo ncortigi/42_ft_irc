@@ -18,12 +18,15 @@ Si tratta di **42_ft_irc**, una semplice implementazione di un server IRC (Inter
     ./ircserv <port> <password>
     ```
 
+
 ## 📚 Funzionalità
 
 - Gestione utenti e canali
 - Comandi IRC standard
 - Autenticazione tramite password
 - Supporto multi-client
+
+Per maggiori informazioni, consulta il file `Subject.pdf` presente nella repository.
 
 ## 👨‍💻 Autori
 
