@@ -30,7 +30,7 @@ Si tratta di una semplice implementazione di un server IRC (Internet Relay Chat)
 - Autenticazione tramite password
 - Supporto multi-client
 
-Per maggiori informazioni, consulta il file `Subject.pdf` presente nella repository.
+Per maggiori informazioni, consulta il file `en.subject.pdf` presente nella repository.
 
 ## 👨‍💻 Autori
 
